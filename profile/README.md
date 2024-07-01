@@ -19,7 +19,7 @@
   <br>
   💬 Ask our platform anything about from <a href="https://github.com/orgs/byshenlab/discussions" title="Issues">Here</a>.
   <br>
-  📫 How to reach our platform: <a href="mailto: chen_dj@sjtu.edu.com">chen_dj@sjtu.edu.cn</a>.
+  📫 How to reach our platform: <a href="mailto: chen_dj@sjtu.edu.cn">chen_dj@sjtu.edu.cn</a>.
 </p>
 
 ## About Us
