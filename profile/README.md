@@ -60,7 +60,7 @@ BRC is also dedicated to education and training the next generation of bioinform
 
 ### Acknowledgements Template
 
-We would like to express our gratitude to Dongjie Chen for providing the GitHub repository (https://github.com/byshenlab), which has been instrumental in the completion of this work.
+We would like to express our gratitude to the Bioinformatics Platform of Pancreatic Disease Center in Ruijin Hospital，Shanghai Jiao Tong University School of Medicine, Shanghai, China for providing the GitHub repository (https://github.com/byshenlab), which has been instrumental in the completion of this work.
 
 ### Citation Template
 
