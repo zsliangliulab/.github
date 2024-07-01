@@ -58,6 +58,25 @@ We believe in the power of collaboration and actively seek partnerships with aca
 ### Educational Initiatives
 BRC is also dedicated to education and training the next generation of bioinformatics researchers. We offer various programs, workshops, and seminars to equip students and professionals with the skills and knowledge needed to excel in this dynamic field.
 
+### Acknowledgements
+
+We would like to express our gratitude to Dongjie Chen for providing the GitHub repository (https://github.com/byshenlab), which has been instrumental in the completion of this work.
+
+### Citation
+
+If you find any repository useful in your research, please consider citing it as follows:
+
+```bibtex
+@misc{byshenlab_repositoryname_2024,
+  author = {Dongjie Chen},
+  title = {Repository Name},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/byshenlab/repositoryname}},
+}
+```
+
 ### Contact Us
 We welcome inquiries from potential collaborators, students, and anyone interested in learning more about our work. Please feel free to reach out to us through our [GitHub repository](https://github.com/byshenlab) or contact us at [chen_dj@sjtu.edu.cn](mailto:chen_dj@sjtu.edu.cn).
 
