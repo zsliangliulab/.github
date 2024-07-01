@@ -2,33 +2,33 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=500&duration=3000&pause=100&background=FFFFFF00&center=true&random=false&width=560&lines=This+is+Bioinformatics+Research+Center+in+Shen+Lab+%F0%9F%8E%93;Nice+to+meet+you+%F0%9F%98%80;Feel+free+to+contact+us++%F0%9F%93%A9+">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&duration=3500&pause=500&center=true&vCenter=true&random=false&width=500&lines=This+is+the+Bioinformatics+Platform+in+Shen+Lab+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F%E2%80%8D;Nice+to+meet+you+%F0%9F%98%80;Feel+free+to+contact+us+%F0%9F%92%95">
   </a>
 </h1>
 
 
 <br>
 <p align="center">
-  Hi, This is the Bioinformatics Research Center !
+  Hi, This is the Bioinformatics Platform !
   <br>
   <br>
-  🔬 This center is affiliated with <a href="https://www.rjh.com.cn/2018RJPortal/doc/2023/11/17/65755.shtml" title="Issues">Pancreatic Disease Center</a>, <a href="http://www.rjh.com.cn" title="Issues">Ruijin Hospital</a>,  <a href="https://www.shsmu.edu.cn/english/" title="Issues">SJTUSM</a>, Shanghai.  
+  🔬 This platform is affiliated with <a href="https://www.rjh.com.cn/2018RJPortal/doc/2023/11/17/65755.shtml" title="Issues">Pancreatic Disease Center</a>, <a href="http://www.rjh.com.cn" title="Issues">Ruijin Hospital</a>,  <a href="https://www.shsmu.edu.cn/english/" title="Issues">SJTUSM</a>, Shanghai.  
   <br>
-  🎓 The leader of this center is Prof. <a href="https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940" title="Issues">Baiyong Shen</a>.
+  🎓 The leader of this platform is Prof. <a href="https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940" title="Issues">Baiyong Shen</a>.
   <br>
-  💬 Ask our center anything about from <a href="https://github.com/orgs/byshenlab/discussions" title="Issues">Here</a>.
+  💬 Ask our platform anything about from <a href="https://github.com/orgs/byshenlab/discussions" title="Issues">Here</a>.
   <br>
-  📫 How to reach our center: <a href="mailto: chen_dj@sjtu.edu.com">chen_dj@sjtu.edu.cn</a>.
+  📫 How to reach our platform: <a href="mailto: chen_dj@sjtu.edu.com">chen_dj@sjtu.edu.cn</a>.
 </p>
 
 ## About Us
 
 
 ### Overview
-The Bioinformatics Research Center (BRC) is dedicated to advancing the field of bioinformatics through cutting-edge research, innovation, and collaboration. Our mission is to develop and apply computational tools and techniques to understand and interpret biological data, ultimately contributing to significant scientific discoveries and advancements in health and medicine.
+The Bioinformatics Platform (BP) is dedicated to advancing the field of bioinformatics through cutting-edge research, innovation, and collaboration. Our mission is to develop and apply computational tools and techniques to understand and interpret biological data, ultimately contributing to significant scientific discoveries and advancements in health and medicine.
 
 ### Our Research
-At BRC, our research spans a wide range of topics in bioinformatics, including:
+At BP, our research spans a wide range of topics in bioinformatics, including:
 
 - **Genomics and Proteomics**: Analyzing DNA, RNA, and protein sequences to understand the structure, function, and evolution of genes and proteins.
 - **Computational Biology**: Developing algorithms and computational models to simulate biological processes and systems.
@@ -41,7 +41,7 @@ At BRC, our research spans a wide range of topics in bioinformatics, including:
 Our team is composed of interdisciplinary experts, including biologists, computer scientists, mathematicians, and statisticians, all working together to push the boundaries of bioinformatics research. We are committed to fostering a collaborative and inclusive environment where diverse perspectives and expertise can thrive.
 
 ### Main Administrator
-Prof. [Baiyong Shen](https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940), our main administrator, leads the Bioinformatics Research Center with extensive experience in bioinformatics and computational biology. Prof. [Baiyong Shen](https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940)'s leadership and vision have been instrumental in shaping the center's research direction and fostering a culture of innovation and excellence. Prof. [Baiyong Shen](https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940) is committed to supporting the team's efforts and advancing the field through strategic collaborations and impactful research initiatives.
+Prof. [Baiyong Shen](https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940), our main administrator, leads the Bioinformatics Platform with extensive experience in bioinformatics and computational biology. Prof. [Baiyong Shen](https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940)'s leadership and vision have been instrumental in shaping the platform's research direction and fostering a culture of innovation and excellence. Prof. [Baiyong Shen](https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940) is committed to supporting the team's efforts and advancing the field through strategic collaborations and impactful research initiatives.
 
 ### Main Publications
 Our team has contributed to numerous high-impact publications in the field of bioinformatics. Here are some of our most notable papers:
@@ -60,6 +60,6 @@ BRC is also dedicated to education and training the next generation of bioinform
 ### Contact Us
 We welcome inquiries from potential collaborators, students, and anyone interested in learning more about our work. Please feel free to reach out to us through our [GitHub repository](https://github.com/byshenlab) or contact us at [chen_dj@sjtu.edu.cn](mailto:chen_dj@sjtu.edu.cn).
 
-Thank you for visiting the Bioinformatics Research Center!
+Thank you for visiting the Bioinformatics Platform !
 
 
