@@ -18,7 +18,7 @@
   <br>
   💬 Ask our center anything about from <a href="https://github.com/orgs/byshenlab/discussions" title="Issues">Here</a>.
   <br>
-  📫 How to reach our center: <a href="mailto: chen_dj@sjtu.edu.com">chen_dj@sjtu.edu.com</a>.
+  📫 How to reach our center: <a href="mailto: chen_dj@sjtu.edu.com">chen_dj@sjtu.edu.cn</a>.
 </p>
 
 ## About Us
