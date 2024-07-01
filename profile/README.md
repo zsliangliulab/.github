@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=byshenlab.byshenlab">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -21,7 +21,7 @@
   📫 How to reach our center: <a href="mailto: chen_dj@sjtu.edu.com">chen_dj@sjtu.edu.com</a>.
 </p>
 
-## About us
+## About Us
 
 
 ### Overview
