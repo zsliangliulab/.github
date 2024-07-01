@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&duration=3000&pause=100&background=FFFFFF00&center=true&random=false&width=560&height=60&lines=This+is+Center+for+Bioinformatics+in+Baiyong+Shen%E2%80%98s+Lab+%F0%9F%8E%93;Nice+to+meet+you+%F0%9F%98%80;Feel+free+to+contact+us++%F0%9F%93%A9+chen_dj%40sjtu.edu.cn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=500&duration=3000&pause=100&background=FFFFFF00&center=true&random=false&width=560&lines=This+is+Bioinformatics+Research+Center+in+Shen+Lab+%F0%9F%8E%93;Nice+to+meet+you+%F0%9F%98%80;Feel+free+to+contact+us++%F0%9F%93%A9+">
   </a>
 </h1>
 
