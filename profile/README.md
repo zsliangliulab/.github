@@ -56,7 +56,7 @@ Our team has contributed to numerous high-impact publications in the field of bi
 We believe in the power of collaboration and actively seek partnerships with academic institutions, industry, and healthcare organizations. These collaborations enable us to tackle complex biological questions and translate our research into real-world applications.
 
 ### Educational Initiatives
-BRC is also dedicated to education and training the next generation of bioinformatics researchers. We offer various programs, workshops, and seminars to equip students and professionals with the skills and knowledge needed to excel in this dynamic field.
+BP is also dedicated to education and training the next generation of bioinformatics researchers. We offer various programs, workshops, and seminars to equip students and professionals with the skills and knowledge needed to excel in this dynamic field.
 
 ### Acknowledgements Template
 
