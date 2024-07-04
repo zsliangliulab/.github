@@ -84,4 +84,4 @@ We welcome inquiries from potential collaborators, students, and anyone interest
 
 Thank you for visiting the BioNexus Platform !
 
-
+© 2024 BioNexus Platform. All rights reserved.
