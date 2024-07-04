@@ -19,7 +19,7 @@
   <br>
   💬 Ask our platform anything about from <a href="https://github.com/orgs/byshenlab/discussions" title="Issues">Here</a>.
   <br>
-  📫 How to reach our platform: <a href="mailto: chen_dj@sjtu.edu.cn">chen_dj@sjtu.edu.cn</a>.
+  📫 How to reach our platform: <a href="mailto: chen_dj@sjtu.edu.cn">chen_dj@sjtu.edu.cn</a> or <a href="https://github.com/Dongjie-orange"> @Dongjie-orange </a>.
 </p>
 
 ## About Us
@@ -80,7 +80,7 @@ If you find any repository useful in your research, please consider citing it as
 ```
 
 ### Contact Us
-We welcome inquiries from potential collaborators, students, and anyone interested in learning more about our work. Please feel free to reach out to us through our [GitHub repository](https://github.com/byshenlab) or contact us at [chen_dj@sjtu.edu.cn](mailto:chen_dj@sjtu.edu.cn).
+We welcome inquiries from potential collaborators, students, and anyone interested in learning more about our work. Please feel free to reach out to us through our [GitHub repository](https://github.com/byshenlab) or contact us at [chen_dj@sjtu.edu.cn](mailto:chen_dj@sjtu.edu.cn) or <a href="https://github.com/Dongjie-orange"> @Dongjie-orange </a>.
 
 Thank you for visiting the Bioinformatics Platform !
 
