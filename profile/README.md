@@ -2,18 +2,18 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=350&center=true&vCenter=true&random=false&width=520&lines=This+is+the+Bioinformatics+Platform+in+Shen+Lab+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F%E2%80%8D;Nice+to+meet+you+%F0%9F%98%80;Feel+free+to+contact+us+%F0%9F%92%95">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=350&center=true&vCenter=true&random=false&width=520&lines=This+is+the+BioNexus+Platform+in+Shen+Lab+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F%E2%80%8D;Nice+to+meet+you+%F0%9F%98%80;Feel+free+to+contact+us+%F0%9F%92%95">
   </a>
 </h1>
 
 
 <br>
 <p align="center">
-  Hi, This is the Bioinformatics Platform !
+  Hi, This is the BioNexus Platform !
   <br>
   🌟🌟🌟
   <br>
-  🔬 This platform is affiliated with <a href="https://www.rjh.com.cn/2018RJPortal/doc/2023/11/17/65755.shtml" title="Issues">Pancreatic Disease Center</a>, <a href="http://www.rjh.com.cn" title="Issues">Ruijin Hospital</a>,  <a href="https://www.shsmu.edu.cn/english/" title="Issues">SJTUSM</a>, Shanghai.  
+  🔬 This platform is an bioinformatics platform affiliated with <a href="https://www.rjh.com.cn/2018RJPortal/doc/2023/11/17/65755.shtml" title="Issues">Pancreatic Disease Center</a>, <a href="http://www.rjh.com.cn" title="Issues">Ruijin Hospital</a>,  <a href="https://www.shsmu.edu.cn/english/" title="Issues">SJTUSM</a>, Shanghai.  
   <br>
   🎓 The leader of this platform is Prof. <a href="https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940" title="Issues">Baiyong Shen</a>.
   <br>
@@ -26,7 +26,7 @@
 
 
 ### Overview
-The Bioinformatics Platform (BP) is dedicated to advancing the field of bioinformatics through cutting-edge research, innovation, and collaboration. Our mission is to develop and apply computational tools and techniques to understand and interpret biological data, ultimately contributing to significant scientific discoveries and advancements in health and medicine.
+The BioNexus Platform (BP) is dedicated to advancing the field of bioinformatics through cutting-edge research, innovation, and collaboration. Our mission is to develop and apply computational tools and techniques to understand and interpret biological data, ultimately contributing to significant scientific discoveries and advancements in health and medicine. BioNexus signifies a comprehensive platform designed to be a central hub for bioinformatics research. It emphasizes the integration and connection of diverse biological data and tools, fostering an environment that supports innovative research and collaboration. The name conveys the idea of a powerful, user-friendly, and versatile platform that serves as a crucial point for advancing bioinformatics and biological sciences.
 
 ### Our Research
 At BP, our research spans a wide range of topics in bioinformatics, including:
@@ -62,7 +62,7 @@ BP is also dedicated to education and training the next generation of bioinforma
 
 ### Acknowledgements Template
 
-We would like to express our gratitude to the Bioinformatics Platform of Pancreatic Disease Center in Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China for providing the GitHub repository (https://github.com/byshenlab), which has been instrumental in the completion of this work.
+We would like to express our gratitude to the BioNexus Platform of Pancreatic Disease Center in Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China for providing the GitHub repository (https://github.com/byshenlab), which has been instrumental in the completion of this work.
 
 ### Citation Template
 
@@ -82,6 +82,6 @@ If you find any repository useful in your research, please consider citing it as
 ### Contact Us
 We welcome inquiries from potential collaborators, students, and anyone interested in learning more about our work. Please feel free to reach out to us through our [GitHub repository](https://github.com/byshenlab) or contact us at [chen_dj@sjtu.edu.cn](mailto:chen_dj@sjtu.edu.cn) or <a href="https://github.com/Dongjie-orange"> @Dongjie-orange </a>.
 
-Thank you for visiting the Bioinformatics Platform !
+Thank you for visiting the BioNexus Platform !
 
 
