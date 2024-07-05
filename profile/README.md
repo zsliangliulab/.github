@@ -13,7 +13,7 @@
   <br>
   🌟🌟🌟
   <br>
-  🔬 This platform is an bioinformatics platform affiliated with <a href="https://www.rjh.com.cn/2018RJPortal/doc/2023/11/17/65755.shtml" title="Issues">Pancreatic Disease Center</a>, <a href="http://www.rjh.com.cn" title="Issues">Ruijin Hospital</a>,  <a href="https://www.shsmu.edu.cn/english/" title="Issues">SJTUSM</a>, Shanghai.  
+  🔬 This platform is a bioinformatics platform affiliated with <a href="https://www.rjh.com.cn/2018RJPortal/doc/2023/11/17/65755.shtml" title="Issues">Pancreatic Disease Center</a>, <a href="http://www.rjh.com.cn" title="Issues">Ruijin Hospital</a>,  <a href="https://www.shsmu.edu.cn/english/" title="Issues">SJTUSM</a>, Shanghai.  
   <br>
   🎓 The leader of this platform is Prof. <a href="https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940" title="Issues">Baiyong Shen</a>.
   <br>
