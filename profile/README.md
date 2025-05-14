@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=350&center=true&vCenter=true&random=false&width=520&lines=This+is+the+BioNexus+Platform+in+Shen+Lab+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F%E2%80%8D;Nice+to+meet+you+%F0%9F%98%80;Feel+free+to+contact+us+%F0%9F%92%95">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&duration=3000&pause=350&center=true&vCenter=true&random=false&width=520&lines=This+is+the+BioNexus+Platform+in+Liu+Lab+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F%E2%80%8D;Nice+to+meet+you+%F0%9F%98%80;Feel+free+to+contact+us+%F0%9F%92%95">
   </a>
 </h1>
 
@@ -13,13 +13,13 @@
   <br>
   🌟🌟🌟
   <br>
-  🔬 This platform is a bioinformatics platform affiliated with <a href="https://www.rjh.com.cn/2018RJPortal/doc/2023/11/17/65755.shtml" title="Issues">Pancreatic Disease Center</a>, <a href="http://www.rjh.com.cn" title="Issues">Ruijin Hospital</a>,  <a href="https://www.shsmu.edu.cn/english/" title="Issues">SJTUSM</a>, Shanghai.  
+  🔬 This platform is a bioinformatics platform affiliated with <a href="https://www.zs-hospital.sh.cn/jiuyi/yisheng/content/248.html" title="Issues">Department of Pancreatic Surgery</a>, <a href="https://www.zs-hospital.sh.cn/" title="Issues">Zhongshan Hospital</a>,  <a href="https://www.fudan.edu.cn/" title="Issues">Fudan University</a>, Shanghai.  
   <br>
-  🎓 The leader of this platform is Prof. <a href="https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940" title="Issues">Baiyong Shen</a>.
+  🎓 The leader of this platform is Prof. <a href="https://baike.baidu.com/item/%E5%88%98%E4%BA%AE/65680191" title="Issues">Liang Liu</a>.
   <br>
   💬 Ask our platform anything about from <a href="https://github.com/orgs/byshenlab/discussions" title="Issues">Here</a>.
   <br>
-  📫 How to reach our platform: <a href="mailto: chen_dj@outlook.com">chen_dj@sjtu.edu.cn</a> or <a href="https://github.com/Dongjie-orange"> @Dongjie-orange </a>.
+  📫 How to reach our platform: <a href="mailto: chen_dj@outlook.com">chen_dj@outlook.com</a> or <a href="https://github.com/Dongjie-orange"> @Dongjie-orange </a>.
 </p>
 
 ## About Us
@@ -42,17 +42,16 @@ At BP, our research spans a wide range of topics in bioinformatics, including:
 Our team is composed of interdisciplinary experts, including biologists, computer scientists, mathematicians, and statisticians, all working together to push the boundaries of bioinformatics research. We are committed to fostering a collaborative and inclusive environment where diverse perspectives and expertise can thrive.
 
 ### Main Administrator
-Prof. [Baiyong Shen](https://baike.baidu.com/item/%E6%B2%88%E6%9F%8F%E7%94%A8/3067940), our main administrator, leads the Bioinformatics Platform with extensive experience in bioinformatics and computational biology. 
-- Prof. Shen has been working as a pancreatic surgeon for over 30 years. He and his teammates committed to exploring the pattern of tumorigenesis, development and metastasis in pancreatic cancer, aiming to improve the long-term survival of pancreatic cancer. Clinically, his pancreatic disease center is one of the largest national referral centers in the largest university hospital in the east of China. This center accomplished over 2000 pancreatic operations per year, including over 1300 pancreatic malignant tumor resections. They have also accomplished 2386 robotic-assisted laparoscopic surgeries so far, which is one of the largest cohorts worldwide. They also have some prospective clinical trials on the surgery methods and phase I/II adjuvant/palliative therapy on pancreatic disease ongoing. 
+Prof. [Liang Liu](https://baike.baidu.com/item/%E5%88%98%E4%BA%AE/65680191), our main administrator, leads the Bioinformatics Platform with extensive experience in bioinformatics and computational biology. 
+- Prof. Liu has been working as a pancreatic surgeon for over 20 years. He and his teammates committed to exploring the pattern of tumorigenesis, development and metastasis in pancreatic cancer, aiming to improve the long-term survival of pancreatic cancer. Clinically, his pancreatic disease center is one of the largest national referral centers in the largest university hospital in the east of China. This center accomplished over 2000 pancreatic operations per year, including over 1300 pancreatic malignant tumor resections. 
 - Scientifically, through multiple advanced technologies, including high-throughput sequencing, protein profiling, spatial omics, molecular biology, and disease modeling approaches, they analyze the molecular mechanisms of tumorigenesis, metastasis and recurrence of pancreatic cancer and try to establish a multi-omics-based molecular classification of pancreatic adenocarcinoma. They are also interested in identifying the specific cell clusters of tumor microenvironment (TME) and understanding the biological and molecular characteristics of these clusters. The knowledge of the immunosuppressive microenvironment by revealing the subtypes and metabolic characteristics of immune cells helps us establish the stratified and targeted treatment for patients with pancreatic cancer.
 
 ### Main Publications
 Our team has contributed to numerous high-impact publications in the field of bioinformatics. Here are some of our most notable papers:
 
-1. **Prospective observational study on biomarkers of response in pancreatic ductal adenocarcinoma.** - Jiang L, et al., Nat Med. 2024;30(3):749-761., [DOI: 10.1038/s41591-023-02790-x](https://www.nature.com/articles/s41591-023-02790-x)
-2. **Single-cell RNA-seq analysis reveals BHLHE40-driven pro-tumour neutrophils with hyperactivated glycolysis in pancreatic tumour microenvironment.** - Wang L, et al., Gut. 2023;72(5):958-971., [DOI: 10.1136/gutjnl-2021-326070](https://gut.bmj.com/content/72/5/958.long)
-3. **Comprehensive machine learning-generated classifier identifies pro-metastatic characteristics and predicts individual treatment in pancreatic cancer: A multicenter cohort study based on super-enhancer profiling.** - Chen D, et al., Theranostics. 2023;13(10):3290-3309., [DOI: 10.7150/thno.84978](https://www.thno.org/v13p3290.htm)
-4. **Pan-cancer analysis implicates novel insights of lactate metabolism into immunotherapy response prediction and survival prognostication** - Chen D, et al., J Exp Clin Cancer Res. 2024;43(1):125., [DOI: 10.1186/s13046-024-03042-7](https://jeccr.biomedcentral.com/articles/10.1186/s13046-024-03042-7)
+1. **A Distinguished Roadmap of Fibroblast Senescence in Predicting Immunotherapy Response and Prognosis Across Human Cancers.** - Chen D, et al., Gut. 2025;12(7):e2406624., [DOI: 10.1002/advs.202406624](https://gut.bmj.com/content/72/5/958.long)
+2. **Comprehensive machine learning-generated classifier identifies pro-metastatic characteristics and predicts individual treatment in pancreatic cancer: A multicenter cohort study based on super-enhancer profiling.** - Chen D, et al., Theranostics. 2023;13(10):3290-3309., [DOI: 10.7150/thno.84978](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202406624)
+3. **Pan-cancer analysis implicates novel insights of lactate metabolism into immunotherapy response prediction and survival prognostication** - Chen D, et al., J Exp Clin Cancer Res. 2024;43(1):125., [DOI: 10.1186/s13046-024-03042-7](https://jeccr.biomedcentral.com/articles/10.1186/s13046-024-03042-7)
 
 ### Collaborations and Partnerships
 We believe in the power of collaboration and actively seek partnerships with academic institutions, industry, and healthcare organizations. These collaborations enable us to tackle complex biological questions and translate our research into real-world applications.
@@ -62,26 +61,26 @@ BP is also dedicated to education and training the next generation of bioinforma
 
 ### Acknowledgements Template
 
-We would like to express our gratitude to the BioNexus Platform of Pancreatic Disease Center in Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China for providing the GitHub repository (https://github.com/byshenlab), which has been instrumental in the completion of this work.
+We would like to express our gratitude to the BioNexus Platform of Department of Pancreatic Surgery in Zhongshan Hospital, Fudan University, Shanghai, China for providing the GitHub repository (https://github.com/zsliangliulab), which has been instrumental in the completion of this work.
 
 ### Citation Template
 
 If you find any repository useful in your research, please consider citing it as follows:
 
 ```bibtex
-@misc{byshenlab_repositoryname_2024,
-  author = {Baiyong Shen},
+@misc{byshenlab_repositoryname_2025,
+  author = {Liang Liu},
   title = {Repository Name},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/byshenlab/repositoryname}},
+  howpublished = {\url{https://github.com/zsliangliulab/repositoryname}},
 }
 ```
 
 ### Contact Us
-We welcome inquiries from potential collaborators, students, and anyone interested in learning more about our work. Please feel free to reach out to us through our [GitHub repository](https://github.com/byshenlab) or contact us at [chen_dj@sjtu.edu.cn](mailto:chen_dj@outlook.com) or <a href="https://github.com/Dongjie-orange"> @Dongjie-orange </a>.
+We welcome inquiries from potential collaborators, students, and anyone interested in learning more about our work. Please feel free to reach out to us through our [GitHub repository](https://github.com/zsliangliulab) or contact us at [chen_dj@outlook.com](mailto:chen_dj@outlook.com) or <a href="https://github.com/Dongjie-orange"> @Dongjie-orange </a>.
 
 Thank you for visiting the BioNexus Platform !
 
-© 2024 BioNexus Platform. All rights reserved.
+© 2025 BioNexus Platform. All rights reserved.
