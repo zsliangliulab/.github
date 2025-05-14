@@ -17,7 +17,7 @@
   <br>
   🎓 The leader of this platform is Prof. <a href="https://baike.baidu.com/item/%E5%88%98%E4%BA%AE/65680191" title="Issues">Liang Liu</a>.
   <br>
-  💬 Ask our platform anything about from <a href="https://github.com/orgs/byshenlab/discussions" title="Issues">Here</a>.
+  💬 Ask our platform anything about from <a href="https://github.com/orgs/zsliangliulab/discussions" title="Issues">Here</a>.
   <br>
   📫 How to reach our platform: <a href="mailto: chen_dj@outlook.com">chen_dj@outlook.com</a> or <a href="https://github.com/Dongjie-orange"> @Dongjie-orange </a>.
 </p>
