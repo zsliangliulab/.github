@@ -49,7 +49,7 @@ Prof. [Liang Liu](https://baike.baidu.com/item/%E5%88%98%E4%BA%AE/65680191), our
 ### Main Publications
 Our team has contributed to numerous high-impact publications in the field of bioinformatics. Here are some of our most notable papers:
 
-1. **A Distinguished Roadmap of Fibroblast Senescence in Predicting Immunotherapy Response and Prognosis Across Human Cancers.** - Chen D, et al., Gut. 2025;12(7):e2406624., [DOI: 10.1002/advs.202406624](https://gut.bmj.com/content/72/5/958.long)
+1. **A Distinguished Roadmap of Fibroblast Senescence in Predicting Immunotherapy Response and Prognosis Across Human Cancers.** - Chen D, et al., Adv Sci. 2025;12(7):e2406624., [DOI: 10.1002/advs.202406624](https://gut.bmj.com/content/72/5/958.long)
 2. **Comprehensive machine learning-generated classifier identifies pro-metastatic characteristics and predicts individual treatment in pancreatic cancer: A multicenter cohort study based on super-enhancer profiling.** - Chen D, et al., Theranostics. 2023;13(10):3290-3309., [DOI: 10.7150/thno.84978](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202406624)
 3. **Pan-cancer analysis implicates novel insights of lactate metabolism into immunotherapy response prediction and survival prognostication** - Chen D, et al., J Exp Clin Cancer Res. 2024;43(1):125., [DOI: 10.1186/s13046-024-03042-7](https://jeccr.biomedcentral.com/articles/10.1186/s13046-024-03042-7)
 
