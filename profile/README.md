@@ -70,7 +70,7 @@ We would like to express our gratitude to the BioNexus Platform of Department of
 If you find any repository useful in your research, please consider citing it as follows:
 
 ```bibtex
-@misc{byshenlab_repositoryname_2025,
+@misc{zsliangliulab_repositoryname_2025,
   author = {Liang Liu},
   title = {Repository Name},
   year = {2025},
